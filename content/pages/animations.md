@@ -2,6 +2,8 @@
 content_type: page
 description: This section provides slide presentations and animations that illustrate
   many of the topics covered in the lecture notes for this course.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Animations

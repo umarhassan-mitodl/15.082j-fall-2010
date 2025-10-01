@@ -2,6 +2,8 @@
 content_type: page
 description: This section provides a description of the course project, a list of
   deliverables, and a list of suggested topics.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
@@ -40,7 +42,7 @@ From Wikipedia: "Visual representation of \[networks, including social networks\
 
 On October 13{{< sup "th" >}}, 2010, Christiano _et al_. completed a research paper that gives a fast approximation algorithm for maximum s-t flows on an undirected graph. It uses as a subroutine an algorithm for computing an electrical flow in an electrical network with differing voltages at nodes s and t and with differing resistances on arcs. It is an interesting issue to see how well this algorithm performs in practice. The project would be to test the algorithm on data sets. The algorithm should not be difficult to implement, assuming that one has available as a subroutine the algorithm that computes electrical flows.
 
-Christiano, Paul, Jonathan A. Kelner, Aleksander Madry, Daniel Spielman and Shang-Hua Teng. {{% resource_link "9500036e-9546-4654-b004-e4c8f74902d2" "_Electrical Flows, Laplacian Systems, and Faster Approximation of Maximum Flow in Undirected Graphs_" %}}. Unpublished manuscript, October 19, 2010.
+Christiano, Paul, Jonathan A. Kelner, Aleksander Madry, Daniel Spielman and Shang-Hua Teng. [_Electrical Flows, Laplacian Systems, and Faster Approximation of Maximum Flow in Undirected Graphs_](https://arxiv.org/abs/1010.2921). Unpublished manuscript, October 19, 2010.
 
 ### Topics in Social Networks
 
