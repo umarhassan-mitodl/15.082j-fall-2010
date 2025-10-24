@@ -4,8 +4,6 @@ description: This resource contains information related to midterm 2 practice pr
 file: /courses/15-082j-network-optimization-fall-2010/2a9a8ded254a6c7e57fbf8b592e7f504_MIT15_082JF10_exam02prac.pdf
 file_size: 219175
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Exams
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
